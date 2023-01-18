@@ -3885,7 +3885,7 @@
       "id": "LAYOUT_DESERT_UNDERPASS",
       "name": "DesertUnderpass_Layout",
       "width": 139,
-      "height": 23,
+      "height": 24,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Cave",
       "border_filepath": "data/layouts/DesertUnderpass/border.bin",

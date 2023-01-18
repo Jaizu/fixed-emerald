@@ -1615,7 +1615,7 @@
       "id": "LAYOUT_CAVE_OF_ORIGIN_B1F",
       "name": "CaveOfOrigin_B1F_Layout",
       "width": 19,
-      "height": 19,
+      "height": 20,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Cave",
       "border_filepath": "data/layouts/CaveOfOrigin_B1F/border.bin",
